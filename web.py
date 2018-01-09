@@ -12,6 +12,7 @@ def home():
 
 @app.route('/result', methods=['POST'])
 def signin():
+    '1111'
     # sepal_length = request.form['sepal_length']
     # sepal_width = request.form['sepal_width']
     # petal_length = request.form['petal_length']
